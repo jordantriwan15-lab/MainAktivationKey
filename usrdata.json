@@ -22,5 +22,11 @@
         "key": "Key-koki-3b04790787848c82",
         "expirydate": "15-11-2029",
         "Allowoffline": false
+    },
+    {
+        "device_id": "3b04790787848c82",
+        "key": "Key-koki-3b04790787848c82",
+        "expirydate": "15-11-2029",
+        "Allowoffline": false
     } 
 ]
