@@ -28,5 +28,11 @@
         "key": "Key-saifing-07c33bc8bd8ba0c5",
         "expirydate": "15-11-2029",
         "Allowoffline": false
+    },
+    {
+        "device_id": "f3019ee87eb15f29",
+        "key": "Key-saifing-f3019ee87eb15f29",
+        "expirydate": "15-11-2029",
+        "Allowoffline": false
     } 
 ]
