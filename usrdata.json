@@ -34,5 +34,11 @@
         "key": "Key-saifing-f3019ee87eb15f29",
         "expirydate": "15-11-2029",
         "Allowoffline": false
+    },
+    {
+        "device_id": "95f0f1dcf80f97c1",
+        "key": "Key-Verkyut-95f0f1dcf80f97c1",
+        "expirydate": "15-11-2029",
+        "Allowoffline": false
     } 
 ]
